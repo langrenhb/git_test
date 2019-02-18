@@ -1,3 +1,9 @@
 sdfsaf
 asdfasdf
 MASTER分支修改了这个文件
+:合并featuredl分支的内容，以手动解决冲突
+sdfasdfasf
+
+asdfasdf
+asdfasdfsadf
+asdfasdfsad
