@@ -1,5 +1,8 @@
 B
 dfasdfsa
 asdfiasf asdf
+B
 oasadfadfaf
 
+asadfadfaf
+我正在工作，我的代码还没有写完，不能COMMIT,但是我得停下来，去处理BUG
